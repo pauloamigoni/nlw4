@@ -91,3 +91,11 @@ a{
      transform: translateX(-50%);
 
  }
+
+
+span.current-experience-top{
+    position: absolute;
+    top: -30px;
+    transform: translateX(-50%);
+
+}
